@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 自我介绍
 #### 🏠 关于本站
-https://kevinzhw153.gihub.io
+https://kevinzhw153.github.io
 #### 本站是新版blog
 👨‍💻 博主是谁
 一个蒟蒻
